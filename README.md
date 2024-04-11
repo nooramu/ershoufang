@@ -14,3 +14,17 @@
 4.对用户有编辑，赋权与冻结等操作，对房屋有入库，审核以及出库等操作，对每个用户登录记录登记日志。
 
 5.消息管理界面发布公告，设置界面可以上传头像，编辑基本信息，右上角同步显示个人头像。
+
+项目展示：
+
+超级管理员：
+![image](https://github.com/nooramu/ershoufang/assets/92021673/1ba26bcd-3dfb-4e2b-a3e4-ec10b84989cd)
+用户管理：
+![image](https://github.com/nooramu/ershoufang/assets/92021673/dacec51e-9320-4bd3-9846-abf3b439c236)
+房屋管理：
+![image](https://github.com/nooramu/ershoufang/assets/92021673/cc7fb309-1b89-4517-be39-c9eefe28c8b6)
+个人设置：
+![image](https://github.com/nooramu/ershoufang/assets/92021673/84bebac7-0fb7-40d4-ae75-b3a01d95a5c9)
+普通用户：
+![image](https://github.com/nooramu/ershoufang/assets/92021673/ab9825f9-00b4-4a07-a635-ef7d358202aa)
+
