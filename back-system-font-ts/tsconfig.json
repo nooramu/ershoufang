@@ -1,0 +1,24 @@
+{
+	// 编译排除的部分
+	"extends": "@vue/tsconfig/tsconfig.web.json",
+	// 需要编译的部分
+	"include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
+	// 配置项
+	"compilerOptions": {
+		// 项目的基本路径
+		"baseUrl": ".",
+		// 相对路径
+		"paths": {
+			"@/*": ["./src/*"]
+		},
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "allowJs": true,
+    "lib": ["ES2021","dom"],
+	"ignoreDeprecations":"5.0"
+  },
+
+	"references": [{
+		"path": "./tsconfig.config.json"
+	}]
+}
